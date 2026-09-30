@@ -1,0 +1,420 @@
+[
+  {
+    "id": "renzo-gracie-los-angeles",
+    "name": "Renzo Gracie Los Angeles",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90027",
+    "address": "5115–5121 Sunset Blvd",
+    "initials": "RG",
+    "color": "#d6eade",
+    "programs": [],
+    "description": "Listed in the Renzo Gracie affiliate directory in Los Angeles, CA. Contact the academy to confirm its current location, schedule, and teaching roster.",
+    "space": null,
+    "website": "https://renzogracielosangeles.com/",
+    "sources": [
+      "https://renzogracieacademy.com/academies/"
+    ],
+    "sourceType": "affiliate",
+    "checked": "2026-09-24",
+    "instructors": [
+      {
+        "id": "renzo-gracie-los-angeles-jaime-mendez",
+        "name": "Jaime Mendez",
+        "role": "Directory-listed instructor",
+        "belt": null,
+        "focus": "Brazilian jiu jitsu"
+      }
+    ],
+    "county": "Los Angeles"
+  },
+  {
+    "id": "renzo-gracie-pasadena",
+    "name": "Renzo Gracie Pasadena",
+    "city": "Pasadena",
+    "state": "CA",
+    "zip": "91101",
+    "address": "464 E Colorado Blvd",
+    "initials": "RG",
+    "color": "#d6eade",
+    "programs": [],
+    "description": "Listed in the Renzo Gracie affiliate directory in Pasadena, CA. Contact the academy to confirm its current location, schedule, and teaching roster.",
+    "space": null,
+    "website": "https://www.renzograciepasadena.com/",
+    "sources": [
+      "https://renzogracieacademy.com/academies/"
+    ],
+    "sourceType": "affiliate",
+    "checked": "2026-09-24",
+    "instructors": [
+      {
+        "id": "renzo-gracie-pasadena-alex-aung",
+        "name": "Alex Aung",
+        "role": "Directory-listed instructor",
+        "belt": null,
+        "focus": "Brazilian jiu jitsu"
+      }
+    ],
+    "county": "Los Angeles"
+  },
+  {
+    "id": "art-of-jiu-jitsu-costa-mesa",
+    "name": "Art of Jiu Jitsu Costa Mesa",
+    "city": "Costa Mesa",
+    "county": "Orange",
+    "state": "CA",
+    "zip": "92627",
+    "address": "411 E 17th Street",
+    "initials": "Ao",
+    "color": "#d6eade",
+    "programs": [],
+    "description": "Brazilian jiu jitsu academy in Costa Mesa, Orange County. Contact the academy for current classes and visiting information.",
+    "space": null,
+    "website": "https://artofjiujitsu.com/pages/locations",
+    "sources": [
+      "https://artofjiujitsu.com/pages/locations"
+    ],
+    "checked": "2026-09-24",
+    "instructors": []
+  },
+  {
+    "id": "art-of-jiu-jitsu-mission-viejo",
+    "name": "Art of Jiu Jitsu Mission Viejo",
+    "city": "Mission Viejo",
+    "county": "Orange",
+    "state": "CA",
+    "zip": "92691",
+    "address": "26971 Crown Valley Parkway",
+    "initials": "Ao",
+    "color": "#d6eade",
+    "programs": [],
+    "description": "Brazilian jiu jitsu academy in Mission Viejo, Orange County. Contact the academy for current classes and visiting information.",
+    "space": null,
+    "website": "https://artofjiujitsu.com/pages/locations",
+    "sources": [
+      "https://artofjiujitsu.com/pages/locations"
+    ],
+    "checked": "2026-09-24",
+    "instructors": []
+  },
+  {
+    "id": "atos-jiu-jitsu-hq",
+    "name": "Atos Jiu-Jitsu HQ",
+    "city": "San Diego",
+    "county": "San Diego",
+    "state": "CA",
+    "zip": "92111",
+    "address": "4810 Mercury Street",
+    "initials": "AJ",
+    "color": "#d6eade",
+    "programs": [],
+    "description": "Brazilian jiu jitsu academy in San Diego, San Diego County. Contact the academy for current classes and visiting information.",
+    "space": null,
+    "website": "https://atosjiujitsuhq.com/contact-us/",
+    "sources": [
+      "https://atosjiujitsuhq.com/contact-us/"
+    ],
+    "checked": "2026-09-24",
+    "instructors": []
+  },
+  {
+    "id": "gracie-humaita-redlands",
+    "name": "Gracie Humaita Redlands",
+    "city": "Redlands",
+    "county": "San Bernardino",
+    "state": "CA",
+    "zip": "92374",
+    "address": "1000 New York Street Suite 107",
+    "initials": "GH",
+    "color": "#d6eade",
+    "programs": [
+      "Kids",
+      "Beginners"
+    ],
+    "description": "Brazilian jiu jitsu academy in Redlands, San Bernardino County. Contact the academy for current classes and visiting information.",
+    "space": null,
+    "website": "https://www.ghredlands.com/quick-tour",
+    "sources": [
+      "https://www.ghredlands.com/quick-tour"
+    ],
+    "checked": "2026-09-24",
+    "instructors": [
+      {
+        "id": "marcus-norat-ghr",
+        "name": "Marcus Norat",
+        "role": "Instructor",
+        "belt": "5th-degree black belt",
+        "focus": "Brazilian jiu jitsu"
+      }
+    ]
+  },
+  {
+    "id": "gracie-south-bay",
+    "name": "Gracie South Bay",
+    "city": "National City",
+    "county": "San Diego",
+    "state": "CA",
+    "zip": "91950",
+    "address": "340 W 26th Street",
+    "initials": "GS",
+    "color": "#d6eade",
+    "programs": [],
+    "description": "Brazilian jiu jitsu academy in National City, San Diego County. Contact the academy for current classes and visiting information.",
+    "space": null,
+    "website": "https://graciesouthbay.com/contact/",
+    "sources": [
+      "https://graciesouthbay.com/contact/"
+    ],
+    "checked": "2026-09-24",
+    "instructors": []
+  },
+  {
+    "id": "carlson-gracie-menifee",
+    "name": "Carlson Gracie Menifee",
+    "city": "Menifee",
+    "state": "CA",
+    "county": "Riverside",
+    "zip": "92584",
+    "address": "29723 New Hub Drive, Suite D",
+    "initials": "CG",
+    "color": "#dadff8",
+    "programs": [
+      "Kids",
+      "Beginners"
+    ],
+    "description": "Carlson Gracie academy offering Brazilian jiu jitsu for kids, teens, and adults. Arrange a visit with the academy before dropping in.",
+    "space": null,
+    "website": "https://carlsongraciemenifee.com/",
+    "sources": [
+      "https://carlsongraciemenifee.com/"
+    ],
+    "checked": "2026-09-24",
+    "instructors": [
+      {
+        "id": "orlando-alonso-cgm",
+        "name": "Orlando Alonso",
+        "role": "Head instructor",
+        "belt": "Black belt",
+        "focus": "Brazilian jiu jitsu"
+      }
+    ]
+  },
+  {
+    "id": "checkmat-menifee",
+    "name": "Checkmat Menifee",
+    "city": "Menifee",
+    "state": "CA",
+    "county": "Riverside",
+    "zip": "92584",
+    "address": "27701 Scott Road, Suite 102",
+    "initials": "CM",
+    "color": "#d6eade",
+    "programs": [
+      "Kids",
+      "Beginners",
+      "Women’s classes"
+    ],
+    "description": "Checkmat academy with adult fundamentals, children’s classes, and women’s Brazilian jiu jitsu programs.",
+    "space": null,
+    "website": "https://checkmatmenifee.com/",
+    "sources": [
+      "https://checkmatmenifee.com/"
+    ],
+    "checked": "2026-09-24",
+    "instructors": [
+      {
+        "id": "ricardo-feliciano-cm",
+        "name": "Ricardo “Pantcho” Feliciano",
+        "role": "Head professor",
+        "belt": "Black belt",
+        "focus": "Brazilian jiu jitsu"
+      },
+      {
+        "id": "louie-fonseca-cm",
+        "name": "Louie Fonseca",
+        "role": "Coach",
+        "belt": null,
+        "focus": "Brazilian jiu jitsu"
+      },
+      {
+        "id": "samantha-fonseca-cm",
+        "name": "Samantha Fonseca",
+        "role": "Coach",
+        "belt": null,
+        "focus": "Brazilian jiu jitsu"
+      }
+    ]
+  },
+  {
+    "id": "dedicated-jiu-jitsu-temecula",
+    "name": "Dedicated Jiu Jitsu",
+    "city": "Temecula",
+    "state": "CA",
+    "county": "Riverside",
+    "zip": null,
+    "address": "31045 Temecula Parkway",
+    "initials": "DJ",
+    "color": "#f5e0cb",
+    "programs": [
+      "Kids",
+      "Beginners"
+    ],
+    "description": "Checkmat-affiliated Brazilian jiu jitsu academy led by Jason Medina, with training for kids, adults, and beginners.",
+    "space": null,
+    "website": "https://dedicatedjiujitsu.com/",
+    "sources": [
+      "https://dedicatedjiujitsu.com/",
+      "https://dedicatedjiujitsu.com/instructors",
+      "https://dedicatedjiujitsu.com/contact"
+    ],
+    "checked": "2026-09-24",
+    "instructors": [
+      {
+        "id": "jason-medina-djj",
+        "name": "Jason Medina",
+        "role": "Founder / Professor",
+        "belt": "Black belt",
+        "focus": "Brazilian jiu jitsu"
+      },
+      {
+        "id": "kaylee-mcclellan-djj",
+        "name": "Kaylee Mcclellan",
+        "role": "Coach",
+        "belt": null,
+        "focus": "Youth coaching"
+      },
+      {
+        "id": "rob-raubolt-djj",
+        "name": "Rob Raubolt",
+        "role": "Coach",
+        "belt": null,
+        "focus": "Brazilian jiu jitsu"
+      }
+    ]
+  },
+  {
+    "id": "gracie-barra-murrieta",
+    "name": "Gracie Barra Murrieta",
+    "city": "Murrieta",
+    "state": "CA",
+    "county": "Riverside",
+    "zip": "92563",
+    "address": "39815 Alta Murrieta Drive, C2–C4",
+    "initials": "GB",
+    "color": "#e2dcf0",
+    "programs": [
+      "No-Gi",
+      "Kids",
+      "Beginners"
+    ],
+    "description": "Gracie Barra academy with kids and teens programs, fundamentals, and advanced Brazilian jiu jitsu training.",
+    "space": null,
+    "website": "https://gbmurrieta.com/",
+    "sources": [
+      "https://gbmurrieta.com/"
+    ],
+    "checked": "2026-09-24",
+    "instructors": [
+      {
+        "id": "diogo-maltarollo-gbm",
+        "name": "Diogo Maltarollo",
+        "role": "Professor",
+        "belt": "Black belt",
+        "focus": "Brazilian jiu jitsu"
+      },
+      {
+        "id": "mike-lee-gbm",
+        "name": "Mike Lee",
+        "role": "Professor",
+        "belt": "Black belt",
+        "focus": "Brazilian jiu jitsu"
+      }
+    ]
+  },
+  {
+    "id": "10th-planet-murrieta",
+    "name": "10th Planet Jiu Jitsu Murrieta",
+    "city": "Murrieta",
+    "state": "CA",
+    "county": "Riverside",
+    "zip": "92562",
+    "address": "26305 Jefferson Avenue, Suite M",
+    "initials": "10P",
+    "color": "#dae5ed",
+    "programs": [
+      "No-Gi",
+      "Kids",
+      "Beginners",
+      "Competition"
+    ],
+    "description": "No-gi jiu jitsu academy in the 10th Planet system, with youth classes, fundamentals, and competition training.",
+    "space": null,
+    "website": "https://10thplanetjjmurrieta.com/",
+    "sources": [
+      "https://10thplanetjjmurrieta.com/"
+    ],
+    "checked": "2026-09-24",
+    "instructors": [
+      {
+        "id": "andrew-murillo-10pm",
+        "name": "Andrew Murillo",
+        "role": "Owner / Coach",
+        "belt": "Black belt",
+        "focus": "No-Gi"
+      },
+      {
+        "id": "johnny-ho-10pm",
+        "name": "Johnny Ho",
+        "role": "Head instructor",
+        "belt": "Black belt",
+        "focus": "No-Gi"
+      },
+      {
+        "id": "zach-schultz-10pm",
+        "name": "Zach Schultz",
+        "role": "Instructor",
+        "belt": "Black belt",
+        "focus": "No-Gi"
+      }
+    ]
+  },
+  {
+    "id": "carlson-gracie-wine-country",
+    "name": "Carlson Gracie Wine Country",
+    "city": "Temecula",
+    "state": "CA",
+    "county": "Riverside",
+    "zip": "92592",
+    "address": "32828 Wolf Store Road",
+    "initials": "WC",
+    "color": "#e4e8d3",
+    "programs": [
+      "Kids",
+      "Competition",
+      "Women’s classes"
+    ],
+    "description": "Brazilian jiu jitsu academy offering kids, teens, adult, women’s, and competition-team programs.",
+    "space": null,
+    "website": "https://temeculajiujitsu.com/",
+    "sources": [
+      "https://temeculajiujitsu.com/instructors/"
+    ],
+    "checked": "2026-09-24",
+    "instructors": [
+      {
+        "id": "salvatore-spinelli-cgwc",
+        "name": "Salvatore Spinelli",
+        "role": "Co-owner / Instructor",
+        "belt": "Black belt",
+        "focus": "Brazilian jiu jitsu"
+      },
+      {
+        "id": "asa-russell-cgwc",
+        "name": "Asa Russell",
+        "role": "Co-owner / Instructor",
+        "belt": "Black belt",
+        "focus": "Brazilian jiu jitsu"
+      }
+    ]
+  }
+]
